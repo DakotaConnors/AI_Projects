@@ -1,3 +1,5 @@
-On the Syllabus you have a 4th projects for tensorflow, but you told us in class we didn't have to have a full project on that. I did try using tensorflow for my original chatbot (never got it totally working) but if you wanted to see any of that research I could potentially upload it for you.
+# AI_Projects
 
-All 3 regular assignments and the final should be complete.
+Each Project has a read me with some info on the file
+
+Here is a link to the repository: https://github.com/DakotaConnors/AI_Projects
